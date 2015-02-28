@@ -9,7 +9,20 @@ node_attributes:
   sprout:
     homebrew:
       formulae:
+        - git
         - node
         - wget
       casks:
         - firefox
+        - crashlytics
+        - dropbox
+        - atom
+        - appcleaner
+        - sourcetree
+        - textwrangler
+        - cocoarestclient
+        - opera
+        - cakebrew
+        - grandperspective
+        - spideroak
+        - aptanastudio
