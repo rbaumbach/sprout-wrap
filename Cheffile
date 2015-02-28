@@ -21,10 +21,10 @@ cookbook 'sprout-osx-apps',
   :github => 'pivotal-sprout/sprout-osx-apps'
 
 cookbook 'sprout-osx-settings',
-  :github => 'pivotal-sprout/sprout-osx-settings'
+  :github => 'rbaumbach/sprout-osx-settings'
 
 cookbook 'osx',
-  :github => 'pivotal-sprout/osx'
+  :github => 'rbaumbach/osx'
 
 cookbook 'sprout-rubymine',
   :github => 'pivotal-sprout/sprout-rubymine'
